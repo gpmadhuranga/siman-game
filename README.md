@@ -1,2 +1,2 @@
 # siman-game
-This is a simple game built using JS and JQuery.
+A simple game built using JS and JQuery.
